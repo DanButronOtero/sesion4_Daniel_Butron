@@ -12,7 +12,7 @@
 
 
 
-![1](C:\Users\danbu\Documents\BEDU\sesion4\img\1.png)
+![1](img\1.png)
 
 ### Título, elenco y año de cada película.
 
@@ -24,7 +24,7 @@
 }
 ```
 
-![2](C:\Users\danbu\Documents\BEDU\sesion4\img\2.png)
+![2](img\2.png)
 
 ### Nombre y contraseña de cada usuario.
 
@@ -35,5 +35,7 @@
 }
 ```
 
-![3](C:\Users\danbu\Documents\BEDU\sesion4\img\3.png)
+![3](img\3.png)
+
+
 
