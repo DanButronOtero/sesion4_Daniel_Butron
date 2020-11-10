@@ -42,26 +42,3 @@
 
 
 ## Reto 2
-
-### ¿Qué comentarios ha hecho Greg Powell?
-
-```json
-{name:"Greg Powell"}
-```
-
-![4](img/4.png)
-
-### ¿Qué comentarios han hecho Greg Powell o Mercedes Tyler?
-
-```json
-{
-    $or:[
-        {name:"Greg Powell"},
-        {name:"Mercedes Tyler"}
-    ]
-}
-```
-
-
-
-![5](img/5.png)
