@@ -1,5 +1,9 @@
 # Sesion 4
 
+## Reto 1
+
+
+
 ### Fecha, nombre y texto de cada comentario.
 
 ```json
@@ -66,3 +70,38 @@
 
 ![5](img/5.png)
 
+### ¿Cuál es el máximo número de comentarios en una película?
+
+```json
+{
+ project: {
+  title: 1,
+  num_mflix_comments: 1
+ },
+ sort: {
+  num_mflix_comments: -1
+ },
+ limit: 1
+}
+```
+
+![6](img/6.png)
+
+
+
+### ¿Cuál es título de las cinco películas más comentadas?
+
+```json
+{
+ project: {
+  title: 1,
+  _id: 0
+ },
+ sort: {
+  num_mflix_comments: -1
+ },
+ limit: 5
+}
+```
+
+![7](img/7.png)
