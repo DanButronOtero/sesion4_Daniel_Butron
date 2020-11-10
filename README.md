@@ -12,7 +12,7 @@
 
 
 
-![1](img\1.png)
+![1](img/1.png)
 
 ### Título, elenco y año de cada película.
 
@@ -24,7 +24,7 @@
 }
 ```
 
-![2](img\2.png)
+![2](img/2.png)
 
 ### Nombre y contraseña de cada usuario.
 
